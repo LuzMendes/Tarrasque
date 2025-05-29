@@ -26,7 +26,7 @@ Essa propriedade fundamental é muito importante na escolha de materiais para a 
 As perovskitas possuem constantes dielétricas elevadas, o que as torna materiais promissores para a composição desses dispositivos, especialmente em aplicações onde a precisão é crucial, como na bioeletrônica. Além disso, mesmo com pequenos estímulos, as perovskitas promovem grandes respostas estruturais e eletrônicas, aumentando ainda mais sua sensibilidade.
 
 # 🔬❓📌📚 Arquivos e Notebooks
-blabla
+<code>Notebook</code> 
 
 ----------
 # Colaboradores
