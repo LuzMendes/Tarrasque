@@ -13,6 +13,11 @@
 **Orientação:** Prof. Dr. Daniel R. Cassar
 
 -----------
+
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
 # ❓O que é peroviskta?
 Perovskita é uma classe de materiais que apresentam propriedades de bastante destaque, como supercondutividade, ferroeletricidade, magnetorresistência e, mais recentemente, alto desempenho em células solares. A estrutura desses compostos são caracterizados por uma fórmula geral do tipo ABX3, em que "A" e "B" são cátions de diferentes tamanhos, enquanto "X" é um âncio  (geralmente oxigênio ou halogênio). 
 
