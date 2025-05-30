@@ -17,7 +17,7 @@
 Perovskita é uma classe de materiais que apresentam propriedades de bastante destaque, como supercondutividade, ferroeletricidade, magnetorresistência e, mais recentemente, alto desempenho em células solares. A estrutura desses compostos são caracterizados por uma fórmula geral do tipo ABX3, em que "A" e "B" são cátions de diferentes tamanhos, enquanto "X" é um âncio  (geralmente oxigênio ou halogênio). 
 
 <div align="center">
-  <img src="perovskitas.png" alt="Descrição da imagem" width="1000"/>
+  <img src="perovskitagif.gif" alt="Descrição da imagem" width="1000"/>
 </div>
 
 # 🔬Por que prever a constante dielétrica?
@@ -27,10 +27,14 @@ Essa propriedade fundamental é muito importante na escolha de materiais para a 
 
 As perovskitas possuem constantes dielétricas elevadas, o que as torna materiais promissores para a composição desses dispositivos, especialmente em aplicações onde a precisão é crucial, como na bioeletrônica. Além disso, mesmo com pequenos estímulos, as perovskitas promovem grandes respostas estruturais e eletrônicas, aumentando ainda mais sua sensibilidade.
 
-# 🔬❓📌📚 Arquivos e Notebooks
+# 📚 Arquivos e Notebooks
 <code>Notebook</code> 
 
+<code>Fontes de dados</code>
+
+# 😄Conclusãos
+
 ----------
-# Colaboradores
+# 📌Colaboradores
 
 | :---: | :---: | :---: | 
