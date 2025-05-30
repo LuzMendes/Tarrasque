@@ -14,6 +14,8 @@
 
 -----------
 # ❓O que é peroviskta?
+Perovskita é uma classe de materiais que apresentam propriedades de bastante destaque, como supercondutividade, ferroeletricidade, magnetorresistência e, mais recentemente, alto desempenho em células solares. A estrutura desses compostos são caracterizados por uma fórmula geral do tipo ABX3, em que "A" e "B" são cátions de diferentes tamanhos, enquanto "X" é um âncio  (geralmente oxigênio ou halogênio). 
+
 <div align="center">
   <img src="perovskitas.png" alt="Descrição da imagem" width="1000"/>
 </div>
