@@ -42,9 +42,9 @@ As perovskitas possuem constantes dielétricas elevadas, o que as torna materiai
 
 <code>Fontes de dados</code> : https://datadryad.org/dataset/doi:10.5061/dryad.gq3rg
 
-# 😄Conclusãos
+# 😄Conclusãoshttps:
 
 ----------
 # 👥Colaboradores
-
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425049?v=4" width=115><br><sub>Ana Luz Pereira Mendes</sub>](https://github.com/LuzMendes)<br><sub>Ilum - CNPEM</sub>](https://ilum.cnpem.br/)<br> [<sub>Currículo Lattes</sub>](https://lattes.cnpq.br/4596466138573531) [<sub>Linkedin</sub>](https://www.linkedin.com/in/ana-luz-pereira-mendes/)|[<img loading="lazy" src="https://avatars.githubusercontent.com/u/172424922?v=4" width=115><br><sub>Caio Matheus Leão Dantas</sub>](https://github.com/Caiomld)<br>[<sub>Ilum - CNPEM</sub>](https://ilum.cnpem.br/)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/8693036735970868)[<sub>Linkedin</sub>](https://www.linkedin.com/in/caio-matheus-le%C3%A3o-dantas/) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172424916?v=4" width=115><br><sub>Rafael Anis Shaikhzadeh Santos </sub>](https://github.com/drcassar)<br> [<sub>Ilum - CNPEM</sub>](https://ilum.cnpem.br/)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1717397276752482) [<sub>Linkedin</sub>](https://www.linkedin.com/in/rafaelanis)| 
 | :---: | :---: | :---: | 
