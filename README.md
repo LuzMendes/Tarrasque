@@ -38,7 +38,7 @@ As perovskitas possuem constantes dielétricas elevadas, o que as torna materiai
 
 # 📚 Arquivos e Notebooks
 
-<code>Notebook</code> :
+<code>Notebook</code> : [Tarrasque.ipynb](https://github.com/LuzMendes/Tarrasque-Modelagem-Preditiva-da-Resposta-Dieletrica-de-Perovskitas./blob/main/Tarrasque.ipynb)
 
 <code>Fontes de dados</code> : https://datadryad.org/dataset/doi:10.5061/dryad.gq3rg
 
