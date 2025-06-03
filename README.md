@@ -44,7 +44,7 @@ As perovskitas possuem constantes dielétricas elevadas, o que as torna materiai
 
 # 😄Conclusãos:
 <div align="center">
-  <img src="curva_aprendizado.gif" alt="Descrição da imagem" width="1000"/>
+  <img src="curva_aprendizado.png" alt="Descrição da imagem" width="1000"/>
 </div>
 
 
