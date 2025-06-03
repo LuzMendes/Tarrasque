@@ -2,7 +2,7 @@
 <h2 align="center">🧠Redes Neurais Multicamadas</h2> 
 
 <p align="center">
-  &nbsp;&bull;&nbsp; Perovskita 
+   Perovskita 
   &nbsp;&bull;&nbsp; Redes Neurais
   &nbsp;&bull;&nbsp; Dielétrica
   &nbsp;&bull;&nbsp; Python
