@@ -34,7 +34,7 @@ As perovskitas possuem constantes dielétricas elevadas, o que as torna materiai
 
 # ✅ Requisitos
 
-<code>Requisitos</code> :
+<code>Requisitos</code> : 
 
 # 📚 Arquivos e Notebooks
 
@@ -44,7 +44,11 @@ As perovskitas possuem constantes dielétricas elevadas, o que as torna materiai
 
 # 😄Conclusãos:
 
+Neste trabalho, foi  realizada a predição da constante dielétrica com base em diversos atributos relacionados à estrutura da perovskita. Para analisar qual seria a melhor arquitetura a ser utilizada foi implementado uma otimização que testou diversas combinações de funções de ativação, números de neurônios por camada e taxa de aprendizado. Para diminuir o custo do modelo foi aplicado também uma parada antecipada, acompanhe o gráfico abaixo.
 
+<div align="center">
+  <img src="Gráfico_perda_por_arquitetura.jpg" alt="Descrição da imagem" width="1000"/>
+</div>
 
 
 ----------
